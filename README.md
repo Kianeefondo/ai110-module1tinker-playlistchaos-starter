@@ -105,6 +105,12 @@ If you finish early or want an extra challenge, try one of these:
 ## Tips for success
 
 - You do not need to solve everything. Focus on exploring and learning.
+- When confused, ask an AI assistant to explain the code or summarize behavior.  
+- Test the app often. Small experiments reveal useful clues.  
+- Treat surprising behavior as something worth investigating.  
+- Stay curious. The unpredictability is intentional and part of the experience.
+
+When you finish, Playlist Chaos will feel more predictable, and you will have taken your first steps into AI-assisted debugging.
 
 ---
 
@@ -117,9 +123,3 @@ If you finish early or want an extra challenge, try one of these:
 - I believe AI helped a lot with identifying a lot of the bugs and mistakes that this codebase had and it narrowed a lot down to figuring out what I can do to fix. I think AI didn't really mislead, but I feel like with the amount of bugs that there were, I feel like students could feel a bit overwhelmed by thinking about how things conflict with each other and if any functions would be altered in functionality if another were to change.
 
 - One way I would guide a student is definitely start by playing around with the application first before diving deep into the code. I feel like being exposed to the code was very overwhelming at first, and the next step would be to use the AI to help us understand the codebase a lot simpler than trying to read all th code at once.
-- When confused, ask an AI assistant to explain the code or summarize behavior.  
-- Test the app often. Small experiments reveal useful clues.  
-- Treat surprising behavior as something worth investigating.  
-- Stay curious. The unpredictability is intentional and part of the experience.
-
-When you finish, Playlist Chaos will feel more predictable, and you will have taken your first steps into AI-assisted debugging.
